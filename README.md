@@ -52,3 +52,4 @@ After all the solving conputation is done, the visualizer starts and the solving
 `arrow` keys to move camera
 
 `R, L, U, D, F, B` keys to solve the cube manually in `-m` mode
+# Rubik-s-Cube-Solver-Cpp
